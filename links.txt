@@ -1,0 +1,5 @@
+
+Time, Clocks, and the Ordering of Events in a Distributed System Leslie Lamport
+Massachusetts Computer Associates, Inc.
+
+https://lamport.azurewebsites.net/pubs/time-clocks.pdf
